@@ -1,5 +1,6 @@
 #!/bin/sh
 # Automatiza o processo de avaliacao entre pares
+# Deve ser utilizado na raiz da pasta do shell00 a ser avaliada.
 
 # Declaracao de variaveis
 blu=$'%s\n\e[1;34m'
